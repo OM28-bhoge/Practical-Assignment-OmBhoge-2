@@ -11,8 +11,8 @@ Java Assesment
 ### Requirements JAVA 8
 How to run
 ```
- git clone https://github.com/OM28-bhoge/Practical-Assignment.git
- cd Practical-Assignment
+ git clone https://github.com/OM28-bhoge/Practical-Assignment-OmBhoge-2.git
+ cd Practical-Assignment-OmBhoge-2
 ```
 In Command Prompt
 ```cmd
